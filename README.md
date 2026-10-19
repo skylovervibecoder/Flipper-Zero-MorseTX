@@ -1,6 +1,10 @@
 
 # MorseTX for Flipper Zero
 
+![morseTx](morsetx.png)
+
+![morseRx](morserx.png)
+
 MorseTX is a Flipper Zero application that allows you to transmit custom text or quick SOS messages in Morse code using the internal Sub-GHz radio module. It also includes a Receiver (RX) section for experimenting with CW and OOK Morse signal reception.
 
 ## Features
