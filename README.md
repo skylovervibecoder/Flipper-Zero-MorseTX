@@ -1,7 +1,11 @@
 
 # MorseTX for Flipper Zero
 
+--- TX
+
 ![morseTx](morsetx.png)
+
+--- RX
 
 ![morseRx](morserx.png)
 
